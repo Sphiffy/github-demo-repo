@@ -1,4 +1,5 @@
 #!/bin/bash
-#Version 2: Draft
+#Version 3: Published
 
-echo "This is version 2"
+echo "This is version 3"
+echo "Testing complete"
